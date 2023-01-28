@@ -1,0 +1,16 @@
+.banner{
+     background-color :salmon;
+     width:100%;
+     height:250px
+     margin-bottom:50px;
+}
+
+
+.banner-text{
+
+
+top:50%;
+left:100%;
+position:absolue;
+transform:transform;
+}
